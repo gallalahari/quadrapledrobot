@@ -1,0 +1,13 @@
+-> Quadrapled robots are 4 legged robots those perform certain household tasks such as vacuuming or gardening This robot is programmed to move in 2 different modes that are: -
+
+1. Control via remote - Where robot is controlled by a Bluetooth device like mobile or laptop.
+2. Automatic path - In the mode the robot walks automatically while avoiding any obstacles coming in its path.
+
+1)It has 4 legs,3 degree of freedom per leg and it follows a 2-phase discontinuous gait called creep gait.
+2)It uses Arduino mega 2560 as its brain, which is a microcontroller board based on the ATmega2560.
+3)It uses 13 SG90 servo motors as its actuator. It can rotate 180 degrees with an operating speed of 0.1s/60 degrees and produce a torque of 1.8 kgf.cm at operating voltage of 5v.
+4)It uses HC06 Bluetooth module for communication of the robot with the mobile or laptop applications to control the robot. it has range of 10m approximately.
+5)The robot is powered by using a smps power supply. The voltage supplied is 5v and the maximum current drawn by the robot is 4 amps.
+6)The robot weighs 270 grams and it can carry a load of 100 grams safely.
+
+
